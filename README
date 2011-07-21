@@ -1,0 +1,19 @@
+This infectious disease models are adapted from:
+
+Modeling Infectious Diseases in Humans and Animals
+by Matt J. Keeling & Pejman Rohani (2007)
+Princeton University Press
+ISBN: 9780691116174
+http://www.modelinginfectiousdiseases.org/
+
+These examples are posted on Github for purely pedagogic purposes and are intended to support the book. The author's website should be consulted for authoritative and corrected versions. These works are adapted for teaching and study with Python and R.
+
+The book is available at http://press.princeton.edu/titles/8459.html
+
+If you use any of the programs in your research, please reference:
+Keeling, M.J. and Rohani, P. (2007) Modeling Infectious Diseases in Humans and Animals. Princeton University Press.
+
+Original Author's Caution:
+Two points must be stressed about all the programs. Firstly they are simple examples which can be readily compiler, understood and altered, they are not necessarily the most efficient means of programming and a certainly not to be considered as examples of how to program. Secondly, although the examples are intendent to be robust, they are not idiot-proof. Extreme parameters (such as an R0 of several million) may cause spurious results.
+
+===
